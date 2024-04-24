@@ -1,26 +1,26 @@
 # compiled output
-/be/dist
-/fe/dist
+/backend/dist
+/frontend/dist
 
 # test
-/be/test
-/fe/test
+/backend/test
+/frontend/test
 
 # logs
-/be/logs
-/fe/logs
+/backend/logs
+/frontend/logs
 
 # IDEs and editors
-/be/.idea
-/fe/.idea
+/backend/.idea
+/frontend/.idea
 
 
 # env
-/be/.env
-/fe/.env
+/backend/.env
+/frontend/.env
 
 # IDE - VSCode
-/be/.vscode
-/fe/.vscode
-/be/node_modules
-/fe/node_modules
+/backend/.vscode
+/frontend/.vscode
+/backend/node_modules
+/frontend/node_modules
