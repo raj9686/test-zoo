@@ -85,6 +85,9 @@ export default function VerticalTabs() {
       .get(`${url}validateTicket/${ticketNumber}`)
       .then((response) => {
         console.log("Ticket details:", response.data);
+        if (response.data === "Ticket not found") {
+          alert("Ticket not found");
+        }
         setInfo(response.data);
       })
       .catch((error) => {
