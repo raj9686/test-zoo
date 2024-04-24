@@ -1,0 +1,26 @@
+# compiled output
+/be/dist
+/fe/dist
+
+# test
+/be/test
+/fe/test
+
+# logs
+/be/logs
+/fe/logs
+
+# IDEs and editors
+/be/.idea
+/fe/.idea
+
+
+# env
+/be/.env
+/fe/.env
+
+# IDE - VSCode
+/be/.vscode
+/fe/.vscode
+/be/node_modules
+/fe/node_modules
