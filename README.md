@@ -15,7 +15,7 @@ This repository contains the source code for a simple ticketing software for a Z
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/<your-username>/zoo-ticketing.git
+   git clone https://github.com/raj9686/zoo-ticketing.git
    ```
 
 2. Navigate to the backend directory:
@@ -67,11 +67,3 @@ This repository contains the source code for a simple ticketing software for a Z
 2. Enter the number of guests and the age of each guest at the ticketing counter. The software will calculate the total charges and issue a ticket.
 
 3. Security personnel can validate tickets by entering the ticket number. The software will display the details of the guests associated with the ticket, allowing the personnel to verify the guests before entry.
-
-## Contributing
-
-Feel free to contribute to this project by forking the repository and submitting a pull request. If you encounter any issues or have suggestions for improvements, please open an issue.
-
----
-
-This project was implemented as a part of a problem-solving exercise. If you have any questions or need further assistance, please contact the repository owner.
