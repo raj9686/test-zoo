@@ -33,7 +33,7 @@ This repository contains the source code for a simple ticketing software for a Z
 4. Start the backend server:
 
    ```sh
-   npm start
+   npm run start:dev
    ```
 
 5. The backend server should now be running on <http://localhost:5000>
